@@ -28,7 +28,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-card-component-scss-gulp-4_FhJZTbjE)
 - Live Site URL: [Order Summary Card Component](https://bboy77.github.io/order-summary-component/)
 
 ## My process
