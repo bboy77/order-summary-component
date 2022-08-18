@@ -17,13 +17,14 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Overview
 
 ### Screenshots
+- Desktop
 
-![](./screenshot.jpg)
+![](./images/screenshot-desktop.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Order Summary Card Component](https://bboy77.github.io/order-summary-component/)
 
 ## My process
 
@@ -37,13 +38,14 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Sass Lang](https://sass-lang.com/) - This has documentation for the sass language.
+- [CSS Tricks](https://css-tricks.com/) - This has up-to-date information, tips, and tricks for css.
+- [Gulp](https://gulpjs.com/) - This is a toolkit to automate & enhance your workflow.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@bboy77](https://www.frontendmentor.io/profile/bboy77/)
+- LinkedIn - [Andy Bish](https://www.linkedin.com/in/andy-bish-61a1ab70/)
+- NuGet - [bboy77 - AebSolutions.codeConvention.SolutionTemplates](https://www.nuget.org/packages/AebSolutions.CodeConvention.SolutionTemplates)
+- dotnetnew.azurewebsites.net - [Code Convention Multi-Project Ex Application (cc-multiex)](https://dotnetnew.azurewebsites.net/template/AebSolutions.CodeConvention.SolutionTemplates/AebSolutions.CodeConvention.Solution.Ex.6.6)
+
