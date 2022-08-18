@@ -17,8 +17,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Overview
 
 ### Screenshots
+- Desktop
 
-![](./screenshot.jpg)
+![](./images/screenshot-desktop.png)
 
 ### Links
 
