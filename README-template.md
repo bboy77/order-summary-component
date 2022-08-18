@@ -17,6 +17,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Overview
 
 ### Screenshots
+
+- Mobile
+1[](./images/screenshot-mobile.png)
+
 - Desktop
 
 ![](./images/screenshot-desktop.png)
