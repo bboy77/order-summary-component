@@ -1,0 +1,19 @@
+/* frontend-mentor */
+.attribution {
+	font-size: 13px;
+	margin-top: 2rem;
+	text-align: center;
+
+	@media (min-width: 36em) {
+		font-size: 14px;
+	}
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+
+	&:hover {
+		color: hsl(228, 45%, 54%);
+		text-decoration: none;
+	}
+}
