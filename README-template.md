@@ -1,6 +1,8 @@
-# Frontend Mentor - Order summary card solution
+<img src="./images/frontend-mentor-logo.svg" alt="Frontend Mentor Logo" width="48">
+<b>Frontend Mentor</b>
+<h1>Order summary card solution</h1>
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
 ## Table of contents
 
