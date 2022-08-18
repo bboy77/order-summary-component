@@ -43,6 +43,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@bboy77](https://www.frontendmentor.io/profile/bboy77/)
+- LinkedIn - [Andy Bish](https://www.linkedin.com/in/andy-bish-61a1ab70/)
+- NuGet - [bboy77 - AebSolutions.codeConvention.SolutionTemplates](https://www.nuget.org/packages/AebSolutions.CodeConvention.SolutionTemplates)
+- dotnetnew.azurewebsites.net - [Code Convention Multi-Project Ex Application (cc-multiex)](https://dotnetnew.azurewebsites.net/template/AebSolutions.CodeConvention.SolutionTemplates/AebSolutions.CodeConvention.Solution.Ex.6.6)
+
